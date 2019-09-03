@@ -1,3 +1,4 @@
+
 all:
 	atlas-mvn package
 
